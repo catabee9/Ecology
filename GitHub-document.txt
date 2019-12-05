@@ -5,5 +5,3 @@ This is my second line. This is great
 Third line of the document
 
 Fourth line of the document
-
-This is another line
